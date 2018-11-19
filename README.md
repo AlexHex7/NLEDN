@@ -9,12 +9,12 @@ The testing code of [**Non-locally Enhanced Encoder-Decoder Network for Single I
 - pytorch 0.4.0
 
 ### Download Link [(here)](https://pan.baidu.com/s/1ulL7fBLDWhgfDjvZL_IDWg#list/path=%2F)
-- Four test sets
-- De-rained results
-- Four model weights
+- Four testing sets.
+- De-rained results.
+- Four model weights.
 
 ### Running Steps
-1. Download four test sets (Rain100L, Rain100H, DDN, DID-MDN).
+1. Download four testing sets (Rain100L, Rain100H, DDN, DID-MDN).
 2. Choose the type of dataset in **config.py**.
     ```
     data_type_list = ['Rain100L', 'Rain100H', 'DDN', 'DID']
