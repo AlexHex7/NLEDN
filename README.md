@@ -24,9 +24,10 @@ The testing code of [**Non-locally Enhanced Encoder-Decoder Network for Single I
     ```
     python test.py
     ```
-### Cite Information
+### Citation
     @article{li2018non-locally,
-    title={Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining},
-    author={Li, Guanbin and He, Xiang and Zhang, Wei and Chang, Huiyou and Dong, Le and Lin, Liang},
-    journal={acm multimedia},
-    year={2018}}
+        title={Non-locally Enhanced Encoder-Decoder Network for Single Image De-raining},
+        author={Li, Guanbin and He, Xiang and Zhang, Wei and Chang, Huiyou and Dong, Le and Lin, Liang},
+        journal={acm multimedia},
+        year={2018}
+    }
